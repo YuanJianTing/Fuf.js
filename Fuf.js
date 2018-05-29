@@ -2,7 +2,6 @@
 /// <reference path="layer/layer.js" />
 
 (function () {
-    //强成2016年6月13日 14:59:25
     //数据验证框架
     window.CT = window.CT || {};
     var CT = window.CT;
